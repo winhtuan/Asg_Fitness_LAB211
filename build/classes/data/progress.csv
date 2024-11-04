@@ -1,0 +1,70 @@
+CUS-0001,SKD-0005
+Session 1:16/11/2024,09:30;13:30
+Exercises: Roll Up,Leg Circle
+Status: true, false
+Session 2:23/11/2024,09:30;13:30
+Exercises: The Hundred,Spine Stretch
+Status: false, false
+Session 3:30/11/2024,09:30;13:30
+Exercises: Roll Up,Leg Circle
+Status: false, false
+
+CUS-0002,SKD-0002
+Session 1:29/10/2024,09:00;11:00
+Exercises: Sun Salutation,Warrior Pose
+Status: true, true
+Session 2:31/10/2024,08:00;10:00
+Exercises: Tree Pose,Bridge Pose
+Status: true, false
+Session 3:02/11/2024,08:30;10:30
+Exercises: Sun Salutation,Warrior Pose
+Status: false, false
+Session 4:05/11/2024,09:00;11:00
+Exercises: Tree Pose,Bridge Pose
+Status: false, false
+Session 5:07/11/2024,08:00;10:00
+Exercises: Sun Salutation,Warrior Pose
+Status: false, false
+Session 6:09/11/2024,08:30;10:30
+Exercises: Tree Pose,Bridge Pose
+Status: false, false
+
+CUS-0001,SKD-0003
+Session 1:16/11/2024,09:30;12:30
+Exercises: Sun Salutation,Warrior Pose
+Status: false, false
+Session 2:23/11/2024,09:30;12:30
+Exercises: Tree Pose,Bridge Pose
+Status: false, false
+
+CUS-0001,SKD-0004
+Session 1:16/11/2024,09:00;11:00
+Exercises: Sun Salutation,Warrior Pose
+Status: false, false
+Session 2:18/11/2024,10:20;13:20
+Exercises: Tree Pose,Bridge Pose
+Status: false, false
+Session 3:20/11/2024,12:00;14:00
+Exercises: Sun Salutation,Warrior Pose
+Status: false, false
+Session 4:23/11/2024,09:00;11:00
+Exercises: Tree Pose,Bridge Pose
+Status: false, false
+Session 5:25/11/2024,10:20;13:20
+Exercises: Sun Salutation,Warrior Pose
+Status: false, false
+Session 6:27/11/2024,12:00;14:00
+Exercises: Tree Pose,Bridge Pose
+Status: false, false
+
+CUS-0001,SKD-0005
+Session 1:16/11/2024,09:30;13:30
+Exercises: Roll Up,Leg Circle
+Status: false, false
+Session 2:23/11/2024,09:30;13:30
+Exercises: The Hundred,Spine Stretch
+Status: false, false
+Session 3:30/11/2024,09:30;13:30
+Exercises: Roll Up,Leg Circle
+Status: false, false
+
